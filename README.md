@@ -12,7 +12,8 @@ No momento, estou trabalhando em dois projetos:
 Além disso, estou aprendendo:
 
 - Design Patterns;
-- Redux Toolkit;
+- TypeScript;
+- Angular;
 - CI/CD.
 
 ---
