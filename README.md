@@ -4,12 +4,14 @@
 
 Sou um desenvolvedor **Full-Stack**, presentemente construindo projetos com Node e React. Ambos fundamentados no JavaScript.
 
-No momento, estou trabalhando em dois projetos:
+No momento, estou focando na evolução dos meus projetos atuais:
 
-- [Sistema de Autenticação com a stack MERN](https://github.com/infrmke/mern-authentication-system); e
-- [Plataforma para Blog com a stack PERN](https://github.com/infrmke/pern-blog-system).
+- [Sistema de Autenticação com a stack MERN](https://github.com/infrmke/mern-authentication-system) (Finalizado)
+  - Refatorando o Front-end de React para **Angular**.
+- [Plataforma para Blog com a stack PERN](https://github.com/infrmke/pern-blog-system) (Back-end finalizado)
+  - Migrando o ecossistema de Node.js para **Java Spring Boot**.
 
-Além disso, estou aprendendo:
+E também estou aprendendo:
 
 - Design Patterns;
 - TypeScript;
