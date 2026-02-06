@@ -20,4 +20,4 @@ E também estou aprendendo:
 
 ---
 
-Por fim: você já me encontrou aqui no Github, mas eu tenho meu [e-mail pessoal](mailto:infromke@gmail.com) e meu perfil no [LinkedIn](https://www.linkedin.com/in/inaros-lemuel-rodrigues-de-oliveira-10a247399/) também... Te vejo por aí! 🙇
+Por fim: você já me encontrou aqui no Github, mas eu tenho meu [e-mail pessoal](mailto:infromke@gmail.com) e meu perfil no [LinkedIn](https://www.linkedin.com/in/inaros-lemuel/) também... Te vejo por aí! 🙇
