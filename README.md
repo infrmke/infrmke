@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,cs,css,git,html,js,mongodb,nodejs,postgres,react,sass,spring,ts&theme=light" alt="Ícones de tecnologias: Angular, Git, HTML5, JavaScript, MongoDB, Node.js, PostgreSQL, React, Sass, Java Spring Boot e TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=angular,cs,css,docker,git,html,js,mongodb,nodejs,postgres,react,sass,spring,ts&theme=light" alt="Ícones de tecnologias: Angular, Git, HTML5, JavaScript, MongoDB, Node.js, PostgreSQL, React, Sass, Java Spring Boot e TypeScript"/>
   </a>
 </p>
 
