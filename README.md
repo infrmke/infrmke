@@ -6,14 +6,24 @@
   </a>
 </p>
 
-Sou um desenvolvedor **Full-Stack**, focado na construção de aplicações utilizando Java **(Spring Boot)** e **JavaScript/TypeScript** (React/Node).
+Estudante de Análise e Desenvolvimento de Sistemas focado na construção de aplicações utilizando **Java (Spring Boot)**, **C# (.NET)** e o ecossistema **JavaScript/TypeScript** (Node.js/React).
 
-No momento, estou focando na evolução e expansão dos meus projetos atuais:
+No momento, estou focado na expansão dos seguintes projetos:
 
-- [MEAN: Fluxo de Autenticação com OTP](https://github.com/infrmke/mean-authentication-system) | Finalizado
-  - Refatorando o back-end de JavaScript para TypeScript.
-- [Spring Boot: REST API de Blog](https://github.com/infrmke/spring-react-blog-system) | Back-end finalizado
-  - Resultado da evolução da stack PERN. Front-end (em React) a ser desenvolvido.
+**[.NET: API de Gestão de Inventário e Vendas](https://github.com/infromke/inventory-management-api)** | Em desenvolvimento
+
+- C# (.NET 8), Entity Framework, Docker e SQL Server;
+- API focada em regras de negócio para controle de estoque e fluxo de vendas. Estudo ativo de .NET e dos princípios SOLID.
+
+**[MEAN: Fluxo de Autenticação com OTP](https://github.com/infromke/mean-authentication-app)** | **[Live](https://auth-app-web.onrender.com)**
+
+- MongoDB, Express 5, Angular, Node.js e TypeScript 6;
+- Sistema de Gestão de Identidade (IAM) com validação de acesso através de senhas únicas (OTP).
+
+**[Spring Boot: REST API de Blog](https://github.com/infromke/spring-react-blog-app)** | Back-end concluído
+
+- Java 21, Spring Boot 4, React.js e PostgreSQL;
+- Evolução direta da minha stack PERN anterior para uma arquitetura tipada em Java. Front-end (React) a caminho.
 
 E também estou aprendendo:
 
